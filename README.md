@@ -4,6 +4,7 @@ Circular Scrolling di ViewPager dengan Animasi CubeOutTransformer.
 
 # Preview
 ![alt tag](https://raw.githubusercontent.com/suyonoion/GTTViewPager/master/demopreview/2016_01_29_17_59_14.gif)
+YouTube link : https://youtu.be/eUTmBOpgg7U
 
 # How To use
 ```
@@ -34,3 +35,7 @@ https://raw.githubusercontent.com/suyonoion/GTTViewPager/master/demopreview/GTTV
 - antonyt for his answer
   on Original StackOverflow question: http://stackoverflow.com/questions/7546224/viewpager-as-a-circular-queue-wrapping
 - Amazing Studio for free_video_to_gif_converter
+
+# About Me
+- Suyonoion, https://fb.com/suyono.ion
+
